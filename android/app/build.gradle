@@ -75,9 +75,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.foodlakh.partner"
+    namespace "com.udia.partner"
     defaultConfig {
-        applicationId "com.foodlakh.partner"
+        applicationId "com.udia.partner"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

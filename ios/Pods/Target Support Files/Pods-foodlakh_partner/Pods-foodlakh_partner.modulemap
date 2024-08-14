@@ -1,0 +1,6 @@
+module Pods_foodlakh_partner {
+  umbrella header "Pods-foodlakh_partner-umbrella.h"
+
+  export *
+  module * { export * }
+}
